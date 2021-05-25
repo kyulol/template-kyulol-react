@@ -9,6 +9,7 @@ module.exports = {
       },
       colors: {
         almostBlack: '#1a1a1a',
+        almostWhite: '#f5f5f5',
       },
     },
   },
