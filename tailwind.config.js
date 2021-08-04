@@ -11,6 +11,11 @@ module.exports = {
         almostBlack: '#1a1a1a',
         almostWhite: '#f5f5f5',
       },
+      maxWidth: {
+        '1/4': '25%',
+        '1/2': '50%',
+        '3/4': '75%',
+       }
     },
   },
   variants: {

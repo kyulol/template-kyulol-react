@@ -8,7 +8,9 @@ function App() {
       <div className="App">
         <Navbar />
         <Switch>
-          <Route exact path="/" component={Home}/>
+          <div className="mt-20">
+            <Route exact path="/" component={Home}/>
+          </div>  
         </Switch>
         
       </div>
